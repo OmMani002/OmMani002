@@ -32,8 +32,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=OmMani002.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[instagram]: 
-[linkedin]: https://www.linkedin.com/in/om-mani/
 # 🏅 Certificates:
 <p>
 
