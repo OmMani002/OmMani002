@@ -37,5 +37,5 @@
 
 # 🏅 Certificates:
 <p>
-
+-Meta Front-End Developer Professional Certficate
 </p>
