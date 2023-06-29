@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Om Mani Tripathi</h1>
+<h1 align="center">Hi there, I'm Om Mani Tripathi</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 ></h3>
@@ -57,12 +57,17 @@
 img height="21" alt="Linktree"></a>-->
    
    
+<div>
+    <a href="https://www.linkedin.com/in/om-mani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-            square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/ommani02/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-            square&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://twitter.com/OmMani002" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-        
+     square&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="mailto:maniom002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-        
+    square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://open.spotify.com/user/31sldnx5priiwotj5hoepdeab75i?si=3a2f6666ff354ac6" target="_blank"><img                   
+    src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" img height="20" alt="Spotify"></a>
+</div>
 
-<a href="https://www.linkedin.com/in/om-mani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ommani02/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/OmMani002" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="mailto:maniom002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://open.spotify.com/user/31sldnx5priiwotj5hoepdeab75i?si=3a2f6666ff354ac6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" img height="20" alt="Spotify"></a>
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
