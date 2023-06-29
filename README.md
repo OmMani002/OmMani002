@@ -39,14 +39,14 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-<!--![Om Mani Tripathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmMani002&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)-->
+![Om Mani Tripathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmMani002&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-<!--![GitHub Streak](https://streak-stats.demolab.com?user=night05fury&count_private=true&theme=algolia&border_radius=20)-->
+![GitHub Streak](https://streak-stats.demolab.com?user=OmMani002&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) 
     
 <!-- compact programming languages layout -->
-<!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=night05fury&layout=compact&show_icons=true&theme=algolia&border_radius=20)-->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmMani002&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
 
