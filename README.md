@@ -25,8 +25,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![]()
+<!--![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;-->
 <br />
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
@@ -43,7 +44,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=OmMani002&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmMani002&show_icons=true&theme=algolia&border_radius=20) 
     
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmMani002&layout=compact&show_icons=true&theme=algolia&border_radius=20)
