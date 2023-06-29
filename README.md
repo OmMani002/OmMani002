@@ -39,7 +39,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-<!--![Mayank Kumar Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=night05fury&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)-->
+<!--![Om Mani Tripathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmMani002&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)-->
 
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=night05fury&count_private=true&theme=algolia&border_radius=20)-->
 
