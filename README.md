@@ -60,8 +60,7 @@ img height="21" alt="Linktree"></a>-->
 <div>
     <a href="https://www.linkedin.com/in/om-mani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-            square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/ommani02/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-            square&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://twitter.com/OmMani002" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-        
-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://twitter.com/OmMani002" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-        square&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="mailto:maniom002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-       square&logo=Gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://open.spotify.com/user/31sldnx5priiwotj5hoepdeab75i?si=3a2f6666ff354ac6" target="_blank"><img                   
     src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" img height="20" alt="Spotify"></a>
