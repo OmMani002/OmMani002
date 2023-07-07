@@ -2,7 +2,9 @@
 <h3 align="center">¯\_(ツ)_/¯
 
 ></h3>
-<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
+<p align="center"> <img src="dev-working.gif" alt="omDev"/> </p>
+
+- 🔭 I’m currently learning **Game Development**
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -26,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=#4DB33D)&nbsp;
-![Blender](https://img.shileds.io/badge/-Blender-3D-05122A?style=flat&logo=blender3d&logoColor=#RRGGBB)&nbsp;
+<!--![Blender](https://img.shileds.io/badge/-Blender-3D-05122A?style=flat&logo=blender3d&logoColor=#RRGGBB)&nbsp;-->
 ![]()
 <!--![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;-->
