@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **JavaScript , React JS, MongoDB, ExpressJS and NodeJS**
+- 🌱 I’m skilled with these technologies **JavaScript, ReactJS, NextJS, Tailwind CSS, Prisma, tRPC, MongoDB, ExpressJS and NodeJS**
+
+- I'm skilled with these tools **Unity Engine, Unreal Engine, Blender3D, Aseprite, Adobe Photoshop, Figma** 
 
 - 👯 I’m looking to collaborate on **Open Source**
 
